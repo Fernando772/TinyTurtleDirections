@@ -1,4 +1,13 @@
     TinyTurtle.apply(window); 
-    forward(60);
-    right(90);
-    forward(60)
+right(180);
+forward(60);
+right(90);
+forward(60);
+right(90);
+forward(60);
+right(90);
+forward(60);
+left(135);
+forward(45);
+left(95);
+forward(45);
